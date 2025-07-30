@@ -15,7 +15,8 @@
     {
       "matches": [
         "https://codeforces.com/*",
-        "https://codeforces.ru/*"
+        "https://codeforces.ru/*",
+        "https://codeforces.com/profile/*"
       ],
       "js": ["simple-charts.js", "content.js"],
       "css": ["styles.css"],
